@@ -4,7 +4,7 @@
 * 💞️ I’m looking to collaborate on exciting projects that involve web development and innovative tech solutions.
 * 📫 How to reach me: Rudreshtomar5@gmail.com
 * 😄 Pronouns: He/Him
-*⚡ Fun fact: I have a knack for finding creative solutions to complex problems!
+* ⚡ Fun fact: I have a knack for finding creative solutions to complex problems!
 
 
 <!---
