@@ -1,10 +1,10 @@
 # Hi, I’m @Rudreshtomar
-* 👀 I’m interested in Full Stack Development and emerging technologies.
-* 🌱 I’m currently learning Full Stack Development as part of my MCA studies.
-* 💞️ I’m looking to collaborate on exciting projects that involve web development and innovative tech solutions.
-* 📫 How to reach me: Rudreshtomar5@gmail.com
-* 😄 Pronouns: He/Him
-* ⚡ Fun fact: I have a knack for finding creative solutions to complex problems!
+*👀 I’m passionate about Quality Analysis, Data Analytics, and ensuring data integrity to support business decisions.
+*🌱 I’m currently gaining hands-on experience as a Quality Analyst Trainee, utilizing tools like Excel, Power BI, and Tableau to analyze and visualize data.
+*💡 I’m keen to work on projects involving quality assurance, business intelligence, and actionable insights.
+*📫 How to reach me: Rudreshtomar5@gmail.com
+*😄 Pronouns: He/Him
+*⚡ Fun fact: I thrive on identifying patterns and insights that drive process improvements and data-driven strategies!
 
 
 <!---
