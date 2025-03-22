@@ -19,7 +19,9 @@
 
 📫 Let’s connect: **Rudreshtomar5@gmail.com**
 
-🔗 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/rudreshtomar)
+🔗 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/rudreshtomar)
+
+
 
 😄 **Fun Fact:** I thrive on identifying patterns in data and crafting visual stories that drive smarter, data-informed decisions.
 
