@@ -1,12 +1,9 @@
 # 👋 Hi, I’m Rudresh Tomar!
 
-🎯 **Aspiring Data Analyst | Excel, Power BI, SQL, Python Enthusiast | Revenue Analyst Intern**
-
+## Junior Data Analyst Intern at Starry Eyes Media | Excel, Power BI, SQL, Python Enthusiast | Passionate Data Analyst 
 ---
 
 👀 I’m passionate about **Data Analytics**, **Business Intelligence**, and transforming raw data into impactful insights to support smarter business decisions.
-
-🔍 Currently working as a **Revenue Analyst Intern**, where I analyze financial and sales data using **Advanced Excel**, **Power BI**, and **SQL** to uncover trends, optimize performance, and drive data-backed strategies.
 
 💼 I have strong **hands-on experience** working on diverse data projects involving:
 - **Excel** (Power Pivot, Dashboards, PivotTables)
